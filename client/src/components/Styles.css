@@ -1,0 +1,53 @@
+.Navbar{
+  width: 100%vh;
+  background-color: dodgerblue;
+  height: 15vh;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+
+}
+
+.navlink{
+  list-style: none;
+  padding: 5px;
+  margin: 5px;
+  text-decoration: none;
+  margin-top: 50px;
+  background-color: #fff;
+  color: #000;
+}
+.Navbar nav{
+  margin-bottom: 20px;
+}
+.navlink:active{
+  background-color: grey;
+}
+.signup{
+  width: 100vw;
+  display: flex;
+  padding: 30px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.form-control{
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  width:350px;
+}
+.form-control input{
+  padding: 10px;
+  margin:7px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  width:300px;
+}
+.form-control button{
+  width: 100px;
+}
