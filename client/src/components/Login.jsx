@@ -1,9 +1,8 @@
 import React from 'react'
-import {useState,useEffect} from "react"
+// import {useState,useEffect} from "react"
 
 function Login() {
-  // [username,setUsername]=useState(null)
-  // [password,setPassword]=useState(null)
+
   return (
     <div>
       <h1>Please Login</h1>

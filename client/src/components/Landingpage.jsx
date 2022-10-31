@@ -5,7 +5,7 @@ function Landingpage() {
     <>
     <div className='Landing-page'>
       <div>
-        <h1>Welcome to High School System </h1>
+        <h1>New High School System </h1>
       </div>
     </div>
     </>

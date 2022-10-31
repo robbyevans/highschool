@@ -5,8 +5,8 @@
     "quantity": 300,
     "inStock": 50,
     "spoilt": 2,
-    "buyingPrice":50,
-    "sellingPrice":150
+    "buyingPrice":15,
+    "sellingPrice":50
   },
   {
     "id": 2,
@@ -14,7 +14,47 @@
     "quantity": 40,
     "inStock": 30,
     "spoilt": 15,
+    "buyingPrice":70,
+    "sellingPrice":75
+  },  {
+    "id": 2,
+    "name": "Samsung s40+",
+    "quantity": 200,
+    "inStock": 4,
+    "spoilt": 15,
     "buyingPrice":50,
     "sellingPrice":150
+  },  {
+    "id": 2,
+    "name": "Xiaomi redmi5",
+    "quantity": 140,
+    "inStock": 70,
+    "spoilt": 15,
+    "buyingPrice":25,
+    "sellingPrice":75
+  },  {
+    "id": 2,
+    "name": "Sony xperia",
+    "quantity": 50,
+    "inStock": 15,
+    "spoilt": 15,
+    "buyingPrice":35,
+    "sellingPrice":45
+  },  {
+    "id": 2,
+    "name": "JBL flip 4",
+    "quantity": 55,
+    "inStock": 15,
+    "spoilt": 15,
+    "buyingPrice":50,
+    "sellingPrice":150
+  },  {
+    "id": 2,
+    "name": "Iphone X",
+    "quantity": 200,
+    "inStock": 60,
+    "spoilt": 15,
+    "buyingPrice":70,
+    "sellingPrice":90
   }
 ]
