@@ -28,7 +28,7 @@ export default function Respiechart () {
         <PieChart width={400} height={400}>
           <Pie
             dataKey="value"
-            isAnimationActive={false}
+            isAnimationActive={true}
             data={data01}
             cx="50%"
             cy="50%"

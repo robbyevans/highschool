@@ -51,3 +51,47 @@
 .form-control button{
   width: 100px;
 }
+
+.charts{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+}
+/* .secondary-chart{
+  width: 22vw;
+  height: 52vh;
+  margin-top: 19px;
+  padding-left: 3px;
+  margin-left: 10px;
+
+} */
+
+.piechart{
+  border: 1px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.new-chart{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border: 1px solid red; */
+  padding-left: 500px;
+}
+.new-primary-chart{
+margin-left: 100px;
+}
+
+/* .pie{
+
+  border: 1px solid #060b26;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ padding-left: 10px;
+ border-radius: 10px;
+ background-color: #fff;
+ 
+} */
